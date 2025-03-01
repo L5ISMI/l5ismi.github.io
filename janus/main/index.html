@@ -7,10 +7,11 @@
 <Assets>
 <AssetObject id="main1" src="https://l5ismi.github.io/janus/files/main1.obj" mtl="https://l5ismi.github.io/janus/files/main1.mtl" />
 <AssetImage id="void" src="https://l5ismi.github.io/janus/main/real_s.png" />
+<AssetShader id="default_shader_id" src="https://l5ismi.github.io/janus/main/room_path_default.fs" />
 <AssetSound id="echos" src="https://l5ismi.github.io/janus/files/113.mp3" />
 </Assets>
 <Room  fog="true" fog_density="0.2" skybox_left_id="void" skybox_right_id="void" skybox_front_id="void" skybox_back_id="void" skybox_up_id="void" skybox_down_id="void" >
-<Object id="main1" collision_id="main1" js_id="0" locked="true" pos="0 0 0" scale="2 2 2" rot="0 0 0" />
+<Object id="main1" collision_id="main1" shader_id="default_shader_id" js_id="0" locked="true" pos="0 0 0" scale="2 2 2" rot="0 0 0" />
 <Sound id="echos" js_id="0" rect="-2000 -2000 2000 2000" loop="true" /></Sound>
 <Link pos="5 0 2" rotation="0 0 0" scale="1 1 1" col="#bfbf40" url="https://johnisdead.com/fakeworld/edwin/testing.html" title="mortus"/>
 <Link pos="66.7 -5 -9" url="johnisdead.com" col="0.6 1 0.6" scale="1.8 3.2 1" title="johnisdead" ></Link>
