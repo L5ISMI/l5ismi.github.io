@@ -1,38 +1,6 @@
 # Blender 4.1.1 MTL File: 'uploads_files_4244961_ODonovans+Burgers.blend'
 # www.blender.org
 
-newmtl Alum.001
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.040909 0.040909 0.040909
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 2
-map_Ns Mats/metal_0058_2k_ogsyAn/metal_0058_roughness_2k.jpg
-map_Bump -bm 1.000000 Mats/metal_0058_2k_ogsyAn/metal_0058_normal_direct_2k.png
-
-newmtl Brick
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.040909 0.040909 0.040909
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 2
-map_Ns Mats/Bricks051_2K-JPG/Bricks051_2K_Roughness.jpg
-map_Bump -bm 1.000000 Mats/Bricks051_2K-JPG/Bricks051_2K_NormalDX.jpg
-
-newmtl Darkness
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.000000 0.000000 0.000000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 1
-
 newmtl Decals
 Ns 602.704285
 Ka 1.000000 1.000000 1.000000
@@ -41,7 +9,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd Mats/signs.png
+map_Kd C:/Users/luism/Downloads/McDetectives/Mats/signs.png
 
 newmtl KeyHole
 Ns 98.367767
@@ -51,9 +19,9 @@ Ks 0.322727 0.322727 0.322727
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 illum 2
-map_refl Mats/Metal_Key_Hole_001_SD-20220206T102421Z-001/metallic.jpg
-map_d Mats/Metal_Key_Hole_001_SD-20220206T102421Z-001/opacity.jpg
-map_Bump -bm 1.000000 Mats/Metal_Key_Hole_001_SD-20220206T102421Z-001/normal.jpg
+map_refl C:/Users/luism/Downloads/McDetectives/Mats/Metal_Key_Hole_001_SD-20220206T102421Z-001/metallic.jpg
+map_d C:/Users/luism/Downloads/McDetectives/Mats/Metal_Key_Hole_001_SD-20220206T102421Z-001/opacity.jpg
+map_Bump -bm 1.000000 C:/Users/luism/Downloads/McDetectives/Mats/Metal_Key_Hole_001_SD-20220206T102421Z-001/normal.jpg
 
 newmtl Material
 Ns 250.000000
@@ -68,7 +36,7 @@ illum 2
 newmtl Material.001
 Ns 360.000000
 Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
+Kd 0.000000 0.000000 0.000000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
@@ -78,7 +46,7 @@ illum 2
 newmtl Material.002
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
-Kd 0.214360 0.261377 0.314580
+Kd 0.000000 0.079533 0.001554
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
@@ -88,7 +56,7 @@ illum 2
 newmtl Material.003
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
-Kd 0.224697 0.224697 0.224697
+Kd 0.000000 0.048586 0.014241
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
@@ -98,7 +66,7 @@ illum 2
 newmtl Material.004
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
-Kd 0.276512 0.276512 0.276512
+Kd 0.000000 0.156201 0.000752
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
@@ -108,7 +76,77 @@ illum 2
 newmtl Material.005
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
-Kd 0.504976 0.504976 0.504976
+Kd 0.000000 0.091855 0.001107
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Material.006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Material.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.830068 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Material.009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.573515 0.577174 0.001067
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Material.012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000399 0.000000 0.802520
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Material.013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.801032 0.006010 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Material.014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800378 0.002370 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Material.015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800553 0.000000 0.004014
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
@@ -124,7 +162,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Bump -s 15 15 15 -bm 1.000000 Mats/steel light/normal_opengl_2k.png
+map_Bump -s 15 15 15 -bm 1.000000 C:/Users/luism/Downloads/McDetectives/Mats/steel light/normal_opengl_2k.png
 
 newmtl MetTrim.006
 Ns 282.830231
@@ -135,7 +173,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Bump -s 15 15 15 -bm 1.000000 Mats/steel light/normal_opengl_2k.png
+map_Bump -s 15 15 15 -bm 1.000000 C:/Users/luism/Downloads/McDetectives/Mats/steel light/normal_opengl_2k.png
 
 newmtl MetTrim.007
 Ns 282.830231
@@ -146,7 +184,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Bump -s 15 15 15 -bm 1.000000 Mats/steel light/normal_opengl_2k.png
+map_Bump -s 15 15 15 -bm 1.000000 C:/Users/luism/Downloads/McDetectives/Mats/steel light/normal_opengl_2k.png
 
 newmtl MetTrim.008
 Ns 282.830231
@@ -157,7 +195,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Bump -s 15 15 15 -bm 1.000000 Mats/steel light/normal_opengl_2k.png
+map_Bump -s 15 15 15 -bm 1.000000 C:/Users/luism/Downloads/McDetectives/Mats/steel light/normal_opengl_2k.png
 
 newmtl MetTrim.009
 Ns 282.830231
@@ -168,7 +206,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Bump -s 15 15 15 -bm 1.000000 Mats/steel light/normal_opengl_2k.png
+map_Bump -s 15 15 15 -bm 1.000000 C:/Users/luism/Downloads/McDetectives/Mats/steel light/normal_opengl_2k.png
 
 newmtl PaleGlass
 Ns 250.000000
@@ -238,8 +276,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Ns -s 5 5 5 Mats/paint_0001_1k_X2QaE2/paint_0001_roughness_1k.jpg
-map_Bump -s 5 5 5 -bm 1.000000 Mats/paint_0001_1k_X2QaE2/paint_0001_normal_directx_1k.png
+map_Ns -s 5 5 5 C:/Users/luism/Downloads/McDetectives/Mats/paint_0001_1k_X2QaE2/paint_0001_roughness_1k.jpg
+map_Bump -s 5 5 5 -bm 1.000000 C:/Users/luism/Downloads/McDetectives/Mats/paint_0001_1k_X2QaE2/paint_0001_normal_directx_1k.png
 
 newmtl RoofG
 Ka 0.250000 0.250000 0.250000
@@ -249,8 +287,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Ns -s 10 10 10 Mats/Metal029_2K-JPG/Metal029_2K_Roughness.jpg
-map_Bump -s 10 10 10 -bm 1.000000 Mats/Metal029_2K-JPG/Metal029_2K_NormalDX.jpg
+map_Ns -s 10 10 10 C:/Users/luism/Downloads/McDetectives/Mats/Metal029_2K-JPG/Metal029_2K_Roughness.jpg
+map_Bump -s 10 10 10 -bm 1.000000 C:/Users/luism/Downloads/McDetectives/Mats/Metal029_2K-JPG/Metal029_2K_NormalDX.jpg
 
 newmtl RoofG.001
 Ka 0.250000 0.250000 0.250000
@@ -260,8 +298,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Ns -s 10 10 10 Mats/Metal029_2K-JPG/Metal029_2K_Roughness.jpg
-map_Bump -s 10 10 10 -bm 1.000000 Mats/Metal029_2K-JPG/Metal029_2K_NormalDX.jpg
+map_Ns -s 10 10 10 C:/Users/luism/Downloads/McDetectives/Mats/Metal029_2K-JPG/Metal029_2K_Roughness.jpg
+map_Bump -s 10 10 10 -bm 1.000000 C:/Users/luism/Downloads/McDetectives/Mats/Metal029_2K-JPG/Metal029_2K_NormalDX.jpg
 
 newmtl RoofG.002
 Ka 0.250000 0.250000 0.250000
@@ -271,8 +309,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Ns -s 10 10 10 Mats/Metal029_2K-JPG/Metal029_2K_Roughness.jpg
-map_Bump -s 10 10 10 -bm 1.000000 Mats/Metal029_2K-JPG/Metal029_2K_NormalDX.jpg
+map_Ns -s 10 10 10 C:/Users/luism/Downloads/McDetectives/Mats/Metal029_2K-JPG/Metal029_2K_Roughness.jpg
+map_Bump -s 10 10 10 -bm 1.000000 C:/Users/luism/Downloads/McDetectives/Mats/Metal029_2K-JPG/Metal029_2K_NormalDX.jpg
 
 newmtl RoofG.003
 Ka 0.250000 0.250000 0.250000
@@ -282,8 +320,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Ns -s 10 10 10 Mats/Metal029_2K-JPG/Metal029_2K_Roughness.jpg
-map_Bump -s 10 10 10 -bm 1.000000 Mats/Metal029_2K-JPG/Metal029_2K_NormalDX.jpg
+map_Ns -s 10 10 10 C:/Users/luism/Downloads/McDetectives/Mats/Metal029_2K-JPG/Metal029_2K_Roughness.jpg
+map_Bump -s 10 10 10 -bm 1.000000 C:/Users/luism/Downloads/McDetectives/Mats/Metal029_2K-JPG/Metal029_2K_NormalDX.jpg
 
 newmtl RoofG.004
 Ka 0.250000 0.250000 0.250000
@@ -293,10 +331,11 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Ns -s 10 10 10 Mats/Metal029_2K-JPG/Metal029_2K_Roughness.jpg
-map_Bump -s 10 10 10 -bm 1.000000 Mats/Metal029_2K-JPG/Metal029_2K_NormalDX.jpg
+map_Ns -s 10 10 10 C:/Users/luism/Downloads/McDetectives/Mats/Metal029_2K-JPG/Metal029_2K_Roughness.jpg
+map_Bump -s 10 10 10 -bm 1.000000 C:/Users/luism/Downloads/McDetectives/Mats/Metal029_2K-JPG/Metal029_2K_NormalDX.jpg
 
 newmtl RoofO
+Ns 0.000000
 Ka 0.577273 0.577273 0.577273
 Kd 0.800000 0.800000 0.800000
 Ks 0.245455 0.245455 0.245455
@@ -304,8 +343,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Ns -s 10 10 10 Mats/Metal029_2K-JPG/Metal029_2K_Roughness.jpg
-map_Bump -s 10 10 10 -bm 1.000000 Mats/Metal029_2K-JPG/Metal029_2K_NormalDX.jpg
+map_Bump -s 10 10 10 -bm 1.000000 C:/Users/luism/Downloads/McDetectives/Mats/Metal029_2K-JPG/Metal029_2K_NormalDX.jpg
 
 newmtl Roofline.001
 Ka 0.231818 0.231818 0.231818
@@ -315,8 +353,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Ns -s 10 10 10 Mats/Metal029_2K-JPG/Metal029_2K_Roughness.jpg
-map_Bump -s 10 10 10 -bm 1.000000 Mats/Metal029_2K-JPG/Metal029_2K_NormalDX.jpg
+map_Ns -s 10 10 10 C:/Users/luism/Downloads/McDetectives/Mats/Metal029_2K-JPG/Metal029_2K_Roughness.jpg
+map_Bump -s 10 10 10 -bm 1.000000 C:/Users/luism/Downloads/McDetectives/Mats/Metal029_2K-JPG/Metal029_2K_NormalDX.jpg
 
 newmtl Rubber_Hosing_Grey
 Ns 430.664062
@@ -336,8 +374,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Ns -s 5 5 5 Mats/Plaster004_2K-JPG/Plaster004_2K_Roughness.jpg
-map_Bump -s 5 5 5 -bm 1.000000 Mats/Plaster004_2K-JPG/Plaster004_2K_NormalDX.jpg
+map_Ns -s 5 5 5 C:/Users/luism/Downloads/McDetectives/Mats/Plaster004_2K-JPG/Plaster004_2K_Roughness.jpg
+map_Bump -s 5 5 5 -bm 1.000000 C:/Users/luism/Downloads/McDetectives/Mats/Plaster004_2K-JPG/Plaster004_2K_NormalDX.jpg
 
 newmtl WhtPntWood
 Ka 1.000000 1.000000 1.000000
@@ -347,8 +385,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Ns Mats/Hvy wood grain painted/Roughness.jpg
-map_Bump -bm 1.000000 Mats/Hvy wood grain painted/NormalDX.jpg
+map_Ns C:/Users/luism/Downloads/McDetectives/Mats/Hvy wood grain painted/Roughness.jpg
+map_Bump -bm 1.000000 C:/Users/luism/Downloads/McDetectives/Mats/Hvy wood grain painted/NormalDX.jpg
 
 newmtl Window
 Ns 699.504150
@@ -361,6 +399,7 @@ d 1.000000
 illum 2
 
 newmtl WoodBeam
+Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.500000 0.500000 0.500000
@@ -368,8 +407,6 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Ns C:/Planks028_2K_Roughness.jpg
-map_refl C:/Planks028_2K_Metalness.jpg
 map_Bump -bm 1.000000 C:/Planks028_2K_NormalDX.jpg
 
 newmtl meter
@@ -440,5 +477,5 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Ns -s 1 10 10 Mats/Metal029_2K-JPG/Metal029_2K_Roughness.jpg
-map_Bump -s 1 10 10 -bm 1.000000 Mats/Metal029_2K-JPG/Metal029_2K_NormalDX.jpg
+map_Ns -s 1 10 10 C:/Users/luism/Downloads/McDetectives/Mats/Metal029_2K-JPG/Metal029_2K_Roughness.jpg
+map_Bump -s 1 10 10 -bm 1.000000 C:/Users/luism/Downloads/McDetectives/Mats/Metal029_2K-JPG/Metal029_2K_NormalDX.jpg
