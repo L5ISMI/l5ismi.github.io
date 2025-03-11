@@ -9,7 +9,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd C:/Users/luism/Downloads/McDetectives/Mats/signs.png
+map_Kd Mats/signs.png
 
 newmtl KeyHole
 Ns 98.367767
@@ -19,9 +19,9 @@ Ks 0.322727 0.322727 0.322727
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 illum 2
-map_refl C:/Users/luism/Downloads/McDetectives/Mats/Metal_Key_Hole_001_SD-20220206T102421Z-001/metallic.jpg
-map_d C:/Users/luism/Downloads/McDetectives/Mats/Metal_Key_Hole_001_SD-20220206T102421Z-001/opacity.jpg
-map_Bump -bm 1.000000 C:/Users/luism/Downloads/McDetectives/Mats/Metal_Key_Hole_001_SD-20220206T102421Z-001/normal.jpg
+map_refl Mats/Metal_Key_Hole_001_SD-20220206T102421Z-001/metallic.jpg
+map_d Mats/Metal_Key_Hole_001_SD-20220206T102421Z-001/opacity.jpg
+map_Bump -bm 1.000000 Mats/Metal_Key_Hole_001_SD-20220206T102421Z-001/normal.jpg
 
 newmtl Material
 Ns 250.000000
