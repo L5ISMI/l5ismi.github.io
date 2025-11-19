@@ -91,24 +91,25 @@ https://johnisdead.com/melee
 https://johnisdead.com/movie
 https://johnisdead.com/dissociate	
 https://johnisdead.com/cmc2012		
-https://johnisdead.com/storm		[401] (Unlocked) esca - nullappendages
-https://johnisdead.com/heartbeat        [401]
-https://johnisdead.com/omega		[401]
-https://johnisdead.com/comatose		[401]
-https://johnisdead.com/lunar		[401]
-https://johnisdead.com/jose		[401]
-https://johnisdead.com/memories		[401]
-https://johnisdead.com/hall		[401]
-https://johnisdead.com/maid		[401]
-https://johnisdead.com/coast		[401]
-https://johnisdead.com/sect00		[401] (Unlocked) juno - jupiter15423
-https://johnisdead.com/between		[401] (Unlocked) artemis - callisto15423
-https://johnisdead.com/AGGREGATE01	[401]
-https://johnsidead.com/nostalgia	[401]
-https://johnisdead.com/yadhtrib		[401] (Unlocked) juno - argus15423
-https://johnisdead.com/otherone100	[401] (Unlocked) diana - endymion15423
-https://johnisdead.com/undecimn0cte	[401] (Unlocked) juno - aeolus15423
-https://johnisdead.com/sea		[401]
+https://johnisdead.com/storm		          [401] (Unlocked) esca - nullappendages
+https://johnisdead.com/heartbeat              [401]
+https://johnisdead.com/omega		          [401]
+https://johnisdead.com/comatose		          [401]
+https://johnisdead.com/lunar		          [401]
+https://johnisdead.com/jose		              [401]
+https://johnisdead.com/kevin                  [401]
+https://johnisdead.com/memories		          [401]
+https://johnisdead.com/hall		              [401]
+https://johnisdead.com/maid		              [401]
+https://johnisdead.com/coast		          [401]
+https://johnisdead.com/sect00		          [401] (Unlocked) juno - jupiter15423
+https://johnisdead.com/between		          [401] (Unlocked) artemis - callisto15423
+https://johnisdead.com/AGGREGATE01            [401]
+https://johnsidead.com/nostalgia	          [401]
+https://johnisdead.com/yadhtrib		          [401] (Unlocked) juno - argus15423
+https://johnisdead.com/otherone100	          [401] (Unlocked) diana - endymion15423
+https://johnisdead.com/undecimn0cte	          [401] (Unlocked) juno - aeolus15423
+https://johnisdead.com/sea		              [401]
 
 
 https://johnisdead.com/key592
@@ -735,3 +736,4 @@ https://johnisdead.com/fakeworld/edwin/testing.html
 https://johnisdead.com/office/halls/antechamber/walkways/thirdfloor/downward/offices/enter/secretdoor/
 
 
+
